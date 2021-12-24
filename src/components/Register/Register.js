@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 const Register = () => {
   return (
     <div  className='text-center'>
-      <h1>Please Register</h1>
+      <h1>Please Register Here</h1>
       <br />
       <form>
-      <input type="email" placeholder='Your Email'/>
+      <input type="email" placeholder=' Your Email'/>
       <br />
       <br />
       <input type="password" placeholder='Your Password'/>
